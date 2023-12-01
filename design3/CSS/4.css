@@ -1,0 +1,26 @@
+* {
+
+}
+
+.img {
+    float: left;
+    margin-right: 25px;
+}
+
+.container {
+    width: 620px;
+    height: 225px;
+}
+
+.title {
+    text-decoration: none;
+    color: hotpink;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+p {
+    font-family: tahoma;
+    font-size: 14px;
+    color: gray;
+}

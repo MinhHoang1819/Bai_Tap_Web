@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+
+.img {
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+.tin1, .tin2 {
+    width: 300px;
+    display: inline-grid;
+    margin: 10px;
+}
+
+.title {
+    text-decoration: none;
+    font-family: tahoma;
+    font-weight: bold;
+    color: black;
+    font-size: 18px;
+}
+
+p {
+    color: gray;
+    font-size: 14px;
+}

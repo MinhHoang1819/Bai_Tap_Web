@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: tahoma;
+    font-size: 14px;
+    background-color: white;
+}
+
+.container {
+    display: flex;
+    background-color: whitesmoke;
+    margin-top: 30px;
+}
+
+#tin1 {
+    
+}
+
+#tin2 {
+    padding: 0 10px 0 30px;
+    margin: 0 10px 0 20px;
+}
+
+#tin3 {
+    
+}
+
+.title {
+    text-decoration: none;
+    float: right;
+    margin: 20px;
+    color: black;
+    font-weight: bold;
+}
